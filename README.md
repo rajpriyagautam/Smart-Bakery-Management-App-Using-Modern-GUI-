@@ -1,5 +1,5 @@
 # Smart-Bakery-Management-App-Using-Modern-GUI-
-My first Python proa Sweet Bakery billing app with GUI, menu selection, and Excel invoice generation.ject – 
+My first Python project Sweet Bakery billing app with GUI, menu selection, and Excel invoice generation. – 
 # 🍰 Sweet Bakery App
 
 Hi 👋 I'm a beginner developer, and this is my **first project on GitHub**.
